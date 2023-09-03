@@ -1,5 +1,6 @@
 document.getElementById('yesButton').addEventListener('click', function() {
   alert('¡Eres la persona más especial en mi vida! 😍');
+  location.href = "https://wa.me/595985682647?text=Si,%20acepto";
 });
 
 const noButton = document.getElementById('noButton');
